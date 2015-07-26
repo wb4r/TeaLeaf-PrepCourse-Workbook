@@ -1,6 +1,6 @@
 x = 1
 
-6.times do
-    File.new("Q3--E#{x}.rb", "a+")
+9.times do
+    File.new("Q1--E#{x}.rb", "a+")
     x = x + 1
 end
