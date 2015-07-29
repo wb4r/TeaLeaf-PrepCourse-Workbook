@@ -1,0 +1,1 @@
+#was trying ternary operators but i wasnt in the right path for the solution
