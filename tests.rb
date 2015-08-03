@@ -1,6 +1,8 @@
-array = [22.2, 55.0]
+hash = {a: "mada"}
 
-int_array = array.map(&:to_i)
+var = hash[a]
 
-puts int_array.join(".")
+var << " faca"
 
+puts var
+p hash
